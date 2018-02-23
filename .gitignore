@@ -90,3 +90,4 @@ ipch/
 *.vsp
 *.vspx
 *.sap
+*.lock
